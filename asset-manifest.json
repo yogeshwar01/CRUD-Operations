@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CRUD-Operations/static/css/main.c2e2209b.css",
+    "main.js": "/CRUD-Operations/static/js/main.26381058.js",
+    "static/js/787.f587e8d5.chunk.js": "/CRUD-Operations/static/js/787.f587e8d5.chunk.js",
+    "static/media/CityImg.jpeg": "/CRUD-Operations/static/media/CityImg.fbd305af7ae1bc3a4e3d.jpeg",
+    "index.html": "/CRUD-Operations/index.html",
+    "main.c2e2209b.css.map": "/CRUD-Operations/static/css/main.c2e2209b.css.map",
+    "main.26381058.js.map": "/CRUD-Operations/static/js/main.26381058.js.map",
+    "787.f587e8d5.chunk.js.map": "/CRUD-Operations/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e2209b.css",
+    "static/js/main.26381058.js"
+  ]
+}
